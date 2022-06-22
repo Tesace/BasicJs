@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "helvetica";
+}
+#me{
+  width: 25%;
+  
+  height: auto;
+  box-sizing: border-box;
+  box-shadow: 0 .4rem hsla(249, 10%, 26%, .25);
+  border-radius: 10px;
+  padding: 20px;
+  margin-left: 20px;
+  position: relative;
+  transform: translate(130%,50%);
+  background: darkorange;
+
+}
